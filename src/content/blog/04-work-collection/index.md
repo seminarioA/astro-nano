@@ -1,61 +1,15 @@
 ---
-title: "Work Collection"
-description: "How to add work experience."
-date: "Mar 19 2024"
+title: "¿Que es una variable?"
+description: "Variables para todos. 👀"
+date: "30/03/2025"
 ---
 
-The `work` collections is found in `src/content/work`.
+# ¿Que es una variable? (Para dummies)
 
-Working with the `work` collection:
+Una variable es un contenedor de datos, puede almacenar numeros, oraciones, listas, etc.
+Puedes imaginar a una variable como una caja en donde puedes guardar "cosas".
 
-```
-📁 /src/content/work
-└── 📄 apple.md
-└── 📄 facebook.md
-└── 📄 google.md
-└── 📄 mcdonalds.md
-```
 
-In the above example, four entries on the /work page will be generated.
+# ¿Que es una variable? (Para puristas)
 
-`apple`, `facebook`, `google`, `mcdonalds`
-
-All content must be preceded by required metadata in the markdown file in `yaml` format, and be enclosed by triple dashes. --- ---
-
-```mdx
----
-company: "McDonalds"
-role: "French Fryer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
----
-```
-
-Metadata fields
-
-| Field       | Req | Type    | Remarks                                          |
-| :---------- | :-- | :------ | :----------------------------------------------- |
-| company     | Yes | string  | Company name.                                    |
-| role        | Yes | string  | Role at the company. Ex: Full stack developer.   |
-| dateStart   | Yes | string  | Date string that can be parsed to a date.        |
-| dateEnd     | Yes | string  | Date string that can be parsed to a date.        |
-
-\* _Note: If you are still employed at company, for dateEnd you can enter Current, 
-Now or Present instead of a date._
-
-All that's left to do is write your content under the metadata.
-
-```mdx
----
-title: "My awesome project"
-description: "A description of my project."
-date: "Mar 22 2024"
-draft: false
----
-
-### Woot
-
-This is a paragraph about my role at this company.
-```
-
-🎉 Congrats, you are now a blogger, _and_ developer, _and_ employed.
+Una variable es un referenciador por nombre a un espacio de memoria.

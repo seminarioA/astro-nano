@@ -1,7 +1,7 @@
 ---
-title: "Getting started"
-description: "Hit the ground running."
-date: "Mar 22 2024"
+title: "DynamoDB"
+description: "Usando DyanmoDB en una plataforma de ML"
+date: "Mar 30 2025"
 ---
 
 The basic configuration of Nano is pretty simple.

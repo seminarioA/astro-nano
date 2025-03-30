@@ -12,7 +12,7 @@ Una variable es un contenedor de datos, donde puedes almacenar numeros, oracione
 
 Puedes imaginar a una variable como una caja en donde puedes guardar "cosas".
 
-¿Y como creo una variable?
+#### ¿Y como creo una variable? 👀
 
 La creacion de una variable tiene dos etapas
 
@@ -24,6 +24,10 @@ Y la **asignacion** (de valores):
 ```python
 frase = "¡Hola, mundo!"
 ```
+
+
 ### "Soy purista, necesito una definicion mas tecnica 😒"
+
+Bueno...
 
 Una variable es un referenciador por nombre a un espacio de memoria.

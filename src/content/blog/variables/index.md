@@ -51,7 +51,7 @@ var frase =  "¡Hola, mundo!";
 ### Variables que no varian: ¿Que? 🤔
 Bueno...
 
-En algunos lenguajes existen palabras reservadas que nos permiten declarar y asignar variables que ya no cambiaran a lo largo del tiempo (de ejecucion). A este tipo de variables se les denomina constantes y a la caracteristica de no cambiar una vez asignadas se les denomina inmutabilidad
+En algunos lenguajes existen palabras reservadas que nos permiten declarar y asignar variables que ya no cambiaran a lo largo del tiempo (de ejecucion). A este tipo de variables se les denomina constantes y a la caracteristica de no cambiar una vez asignadas se les denomina inmutabilidad.
 
 ¡Quiero ver un ejemplo!
 

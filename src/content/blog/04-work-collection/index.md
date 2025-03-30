@@ -1,7 +1,7 @@
 ---
 title: "¿Que es una variable?"
 description: "Variables para todos. 👀"
-date: "30/03/2025"
+date: "Mar 30 2025"
 ---
 
 # ¿Que es una variable? (Para dummies)

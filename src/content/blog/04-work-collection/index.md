@@ -25,6 +25,16 @@ Y la **asignacion** (de valores):
 frase = "¡Hola, mundo!"
 ```
 
+### El alcance importa 😮
+
+Si... a esto se le denomia "scope"
+
+No es lo mismo definir una variable para una funcion
+
+```js
+let scopeFunc = "Solo puedes acceder a esto desde una misma funcion/ agrupacion logica"
+```
+
 
 ### "Soy purista, necesito una definicion mas tecnica 😒"
 

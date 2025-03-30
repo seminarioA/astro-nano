@@ -8,7 +8,7 @@ date: "Mar 30 2025"
 
 ### Variables para dummies 🤓
 
-Una variable es un contenedor de datos, donde puedes almacenar numeros, oraciones, listas, etc.
+Una variable es un contenedor, donde puedes almacenar datos del tipo numerico, textual, booleano, etc.
 
 Puedes imaginar a una variable como una caja en donde puedes guardar "cosas".
 

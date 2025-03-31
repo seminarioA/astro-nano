@@ -20,13 +20,22 @@ La creacion de una variable tiene dos etapas
 
 La **definicion**:
 ```java
-    // En Java:
-    String frase;
+// En Java:
+String frase;
 ```
+```python
+# En Python:
+frase:str
+```
+
 Y la **asignacion** (de valores):
 ```java
-    // En Java:
-    frase = "¡Hola, mundo!";
+// En Java:
+frase = "¡Hola, mundo!";
+```
+```python
+# En Python:
+frase = "¡Hola, mundo!"
 ```
 
 
@@ -37,17 +46,17 @@ Si... a esto se le denomia "scope"
 No es lo mismo definir una variable para una funcion
 
 ```js
-function scopeVar(string) {
-    let text = "¡Hola, mundo!";
-    return text;
+function saludo() {
+    let frase = "¡Hola, mundo!";
+    return frase;
 }
 
-console.log(scopeVar)
+console.log(saludo())
 ```
 
-Que para **todo** el programa: 
+Que para **todo** un programa: 
 ```js
-var frase =  "¡Hola, mundo!"; 
+var frase = "¡Hola, mundo!"; 
 ```
 ### Variables que no varian: ¿Que? 🤔
 Bueno...

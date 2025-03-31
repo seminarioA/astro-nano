@@ -8,29 +8,27 @@ date: "Mar 30 2025"
 
 ### Variables para dummies 🤓
 
-Una variable es un contenedor, donde puedes almacenar datos del tipo numerico, textual, booleano, etc.
+Una variable es un contenedor, donde puedes almacenar datos de cualquier tipo (numerico, textual, booleano, etc).
 
 Puedes imaginar a una variable como una caja en donde puedes guardar "cosas".
 
-
-![Square Pants](./gato.gif)
+![Gato entrando a una caja](./gato.gif)
 
 #### ¿Y como creo una variable? 👀
 
 La creacion de una variable tiene dos etapas
 
 La **definicion**:
-```python
-frase = ""
+```java
+    // En Java:
+    String frase;
 ```
 Y la **asignacion** (de valores):
-```python
-frase = "¡Hola, mundo!"
+```java
+    // En Java:
+    frase = "¡Hola, mundo!";
 ```
 
-```
-📌 Ejemplo escrito en: Python 🐍
-```
 
 ### El alcance importa 😮
 
@@ -72,4 +70,4 @@ const frase =  "¡Hola, mundo!";
 
 Bueno...
 
-Una variable es un referenciador por nombre a un espacio de memoria.
+Una variable es un referenciador por nombre a una direccion de memoria.

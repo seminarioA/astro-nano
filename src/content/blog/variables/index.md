@@ -18,7 +18,7 @@ Puedes imaginar a una variable como una caja en donde puedes guardar "cosas".
 
 La creacion de una variable tiene dos etapas
 
-La **definicion**:
+La **declaración**:
 ```java
 // En Java:
 String frase;

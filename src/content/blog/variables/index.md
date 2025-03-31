@@ -12,6 +12,9 @@ Una variable es un contenedor, donde puedes almacenar datos del tipo numerico, t
 
 Puedes imaginar a una variable como una caja en donde puedes guardar "cosas".
 
+
+![Square Pants](./gato.gif)
+
 #### ¿Y como creo una variable? 👀
 
 La creacion de una variable tiene dos etapas
